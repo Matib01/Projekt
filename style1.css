@@ -1,0 +1,167 @@
+body {
+    background: #e5e5e5;
+    font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px, 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+.cv_foto {
+    margin-top: 25px;
+    width: 220px;
+    height: auto;
+    margin-left: 75px;
+}
+.header_secondary {
+    color: #ffffff;
+}
+.contact_links {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+}
+.job_links {
+    color: gray;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: 700;
+}
+.list_secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list_secondary_item {
+    color: #ffffff;
+}
+.contact_blok {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.tech_skils_blok {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.soft_skills_blok {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+main {
+    padding: 102px 88px 102px 88px;
+}
+.main_description {
+    width: 500px;
+}
+.job_title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+}
+h1 {
+    font-size: 45px;
+    line-height: 55px;
+}
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+}
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+.list_primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list_primary_item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+.header_primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+.job_name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.highlight {
+    color: #fb6d3a;
+}
+.job_date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.job_date1 {
+    color: black;
+}
+.job_list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.job_title1 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 11px;
+}
+.highlight1 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+    margin-bottom: 11px;
+}
+
+.CV_RODO {
+    margin-top: 100px;
+    margin-bottom: 5px;
+    width: 600px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: black;
+}
+.Languages_blok {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.hobby {
+    margin-top: 47px;
+    margin-left: 40px;
+}
